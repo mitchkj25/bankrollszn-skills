@@ -1,6 +1,6 @@
 ---
 name: bankrollszn-nfl-fantasy
-description: Answer NFL fantasy questions with BankrollSZN: start or sit, survivor picks, defense vs position, and injuries. Use when the user asks who to start, a survivor pick, or an NFL matchup for fantasy.
+description: Answer NFL fantasy questions with BankrollSZN, such as start or sit, survivor picks, defense vs position, and injuries. Use when the user asks who to start, a survivor pick, or an NFL matchup for fantasy.
 ---
 
 # NFL fantasy help with BankrollSZN

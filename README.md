@@ -34,7 +34,7 @@ Free account: 100 calls a day, 20 rows per answer. Fan ($4.99 a month): 2,000 ca
 | bankrollszn-dfs-lineups | Build DraftKings or FanDuel DFS lineups from BankrollSZN projections, ownership, and injuries. |
 | bankrollszn-betting-edges | Find betting edges with BankrollSZN Monte Carlo picks, line shopping, props, and line movement. |
 | bankrollszn-mlb-matchups | Research MLB matchups with BankrollSZN weather, park factors, splits, starters, and the home run board. |
-| bankrollszn-nfl-fantasy | Answer NFL fantasy questions with BankrollSZN: start or sit, survivor picks, defense vs position, and injuries. |
+| bankrollszn-nfl-fantasy | Answer NFL fantasy questions with BankrollSZN, such as start or sit, survivor picks, defense vs position, and injuries. |
 | bankrollszn-targets | Backtest a player type against one defense and save it as a BankrollSZN Target. |
 
 ## Links
